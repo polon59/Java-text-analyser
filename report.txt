@@ -1,0 +1,79 @@
+FILENAME: test.txt
+CHARACTERS COUNT: 1032
+WORD COUNT: 268
+DICTIONARY SIZE: 141
+MOST USED WORDS (>1%): but a no been figure in old was i is had it the as not music and of me where to 
+love count: 1
+hate count: 0
+music count: 3
+VOVELS %: 40.21
+A:E RATIO: 1.74
+LETTERS PERCENTAGE: 
+a---->7.95
+b---->1.65
+c---->1.94
+d---->5.14
+e---->13.86
+f---->2.03
+g---->2.23
+h---->5.62
+i---->6.78
+j---->0.1
+k---->0.58
+l---->2.91
+m---->2.62
+n---->7.95
+o---->7.36
+p---->0.97
+q---->0.1
+r---->5.52
+s---->6.1
+t---->9.3
+u---->3.0
+v---->1.07
+w---->3.78
+x---->0.1
+y---->1.26
+z---->0.0
+OPERATION TIME: 0.098439752 seconds
+
+FILENAME: test2.txt
+CHARACTERS COUNT: 940
+WORD COUNT: 235
+DICTIONARY SIZE: 151
+MOST USED WORDS (>1%): all thee last death ho i ye thou my the and of me oh from to you 
+love count: 0
+hate count: 2
+music count: 1
+VOVELS %: 40.11
+A:E RATIO: 1.95
+LETTERS PERCENTAGE: 
+a---->6.17
+b---->1.6
+c---->2.23
+d---->4.36
+e---->12.02
+f---->2.34
+g---->1.6
+h---->6.7
+i---->5.74
+j---->0.0
+k---->1.06
+l---->5.64
+m---->3.51
+n---->6.28
+o---->9.57
+p---->2.45
+q---->0.11
+r---->4.79
+s---->6.17
+t---->8.83
+u---->3.62
+v---->0.11
+w---->1.91
+x---->0.11
+y---->2.98
+z---->0.0
+OPERATION TIME: 0.021594026 seconds
+
+
